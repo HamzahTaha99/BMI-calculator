@@ -1,0 +1,4 @@
+#Mon Apr 04 02:37:15 EEST 2022
+base.0=C\:\\Users\\Lenovo\\StudioProjects\\firstlyHamzah\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
